@@ -49,7 +49,6 @@ data-warehouse-project/
 ├── datasets/       # Raw ERP & CRM data  
 ├── docs/           # Architecture diagrams & documentation  
 ├── scripts/        # SQL ETL scripts  
-├── tests/          # Data quality checks  
 └── README.md       # Project overview  
 ```
 
